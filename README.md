@@ -4,7 +4,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Satone</h1>
 <h3 align="center">Student@MIT-WPU | HTML | CSS | JS</h3>
 <p align="center">
-<img height="100" width="100" align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
  <a href = "mailto: harshsatone2@gmail.com"><em>Mail:ME📧</em></a>
 </p>
 </p>
@@ -29,7 +28,7 @@
 <a href="https://satone-harsh.github.io/honouredcarver/">Personal-site</a>
 
    <p align="center">
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em>***Languages & Tools I Know...***<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><br><br>
+<em>***Languages & Tools I Know...***<em><br><br>
   <code> <img height="50" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"> </code>
   <code> <img height="50" src="https://cdn-icons-png.flaticon.com/128/919/919826.png"> </code>
   <code> <img height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"> </code>
