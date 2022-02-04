@@ -1,4 +1,4 @@
-<img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 
 <p align="center"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Satone</h1>
@@ -10,7 +10,7 @@
 </p>
 
 
-
+<img height="100" width="100" align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <p align="center">
   <em>
     This isHarsh Satone, an undergraduate from <a href="https://mitwpu.edu.in/"> MIT-WPU</a> <br>
